@@ -6,11 +6,11 @@ print("1. 10%")
 print("2. 15%")
 print("3. 20%")
 
-numero = int(input("Ingrese una opción (1, 2 o 3): "))
+numero = int(input("Por favor, eliga una opcion: "))
 
-a = (v * 10) / 100 + v
-b = (v * 15) / 100 + v
-c = (v * 20) / 100 + v
+a = (v * 0.10) + v
+b = (v * 0.15) + v
+c = (v * 0.20) + v
 
 if numero == 1:
     print("El valor total de su cuenta junto con la propina es de", a)
@@ -19,4 +19,4 @@ elif numero == 2:
 elif numero == 3:
     print("El valor total de su cuenta junto con la propina es de", c)
 else:
-    print("Opción inválida. Por favor seleccione 1, 2 o 3.")
+    print("Opción inválida. Por favor seleccione entre 1, 2 o 3.")
