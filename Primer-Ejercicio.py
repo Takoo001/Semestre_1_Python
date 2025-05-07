@@ -1,3 +1,5 @@
+"""PSEINT A PYTHON"""
+
 v = int(input("Por favor, ingrese el valor de la cuenta a pagar: "))
 
 print("Ahora seleccione el porcentaje de propina que desea dejar")
