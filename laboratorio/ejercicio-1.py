@@ -37,6 +37,6 @@ prom = (martillo + serrucho + clavos + tornillos) / 4
 print("El promedio de los precios unitarios de cada herramienta es: ", (round(prom,2)))
 print()
 
-#IVA TOTAL DE LOS SUBTOTALES
+#IVA TOTAL DE LOS SUBTOTALES 
 iva = subtotal * 0.19
 print(f"El IVA de su subtotal es: {iva}")
