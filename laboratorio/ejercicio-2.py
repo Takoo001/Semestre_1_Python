@@ -29,6 +29,3 @@ print()
 
 
 print("Resumen separado por comas (,): ",resumen.split()) # RESUMEN SEPARADO POR COMAS
-
-# hagalo valer profe dijo con comas :(
-    
