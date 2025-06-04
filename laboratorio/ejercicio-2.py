@@ -28,4 +28,4 @@ print("Ultimos 15 caracteres del resumen: ",ultimos_15_caracteres)
 print()
 
 
-print("Resumen separado por comas (,): ",resumen.split()) # RESUMEN SEPARADO POR COMAS
+print("Resumen separado por comas (,): ",resumen.split()) # RESUMEN SEPARADO POR COMAS 
